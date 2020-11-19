@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsApplication1.Punter">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAwAAAAAAAAAAASAAAAEAAACAAAAABAAgAA=</HashCode>
+      <FileName>Punter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Baron" Collapsed="true">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Baron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Adom" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Adom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsApplication1.Jarden" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <InheritanceLine Type="WindowsFormsApplication1.Punter" FixedToPoint="true">
+      <Path>
+        <Point X="3.25" Y="1.821" />
+        <Point X="2.875" Y="1.821" />
+        <Point X="2.875" Y="5.316" />
+        <Point X="0.562" Y="5.316" />
+        <Point X="0.562" Y="4.941" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Jarden.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car_Race.Car_Race_Hound">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAACAAAAAAIAAAAAABAAEAAAAECAAAAAAAA=</HashCode>
+      <FileName>Car_Race_Hound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car_Race.Car_Bet">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEQAAAAAAAAgAAAAAAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Car_Bet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Car_Race.ss">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAAEAAAAgAQQAAAAAAAAAAAAAAAAAAABgAEAAA=</HashCode>
+      <FileName>Racer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
